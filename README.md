@@ -120,5 +120,5 @@ This project is licensed under the MIT License.
 ## **Contact**
 For inquiries, please contact:
 **Abdurezak**  
-Email: [abdurewzebtu143.com]  
+Email: [abdurewzebtu143@gmail.com]  
 GitHub: [(https://github.com/abdure-ai/EthioMart-Centralized-Market)]
